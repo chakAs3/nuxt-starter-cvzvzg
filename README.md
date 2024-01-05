@@ -4,7 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 
-Make sure to install the dependencies:
+Make sure to install the dependencies using pnpm is recommended :
 
 ```bash
 # yarn
@@ -22,21 +22,13 @@ pnpm install
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+pnpm run storybook dev
 ```
 
 ## Production
 
-Build the application for production:
+Build the storybook for production:
 
 ```bash
-npm run build
+pnpm run storybook-static
 ```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
