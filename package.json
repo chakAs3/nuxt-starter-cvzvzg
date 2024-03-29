@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@nuxtjs/storybook": "7.0.0",
-    "@storybook-vue/nuxt": "0.2.5",
+    "@storybook-vue/nuxt": "0.2.6",
     "@storybook/addon-essentials": "8.0.0",
     "@storybook/addon-interactions": "8.0.0",
     "@storybook/addon-links": "8.0.0",
@@ -22,7 +22,7 @@
     "@storybook/vue3": "8.0.0",
     "@storybook/vue3-vite": "8.0.0",
     "@types/node": "^18.19.4",
-    "nuxt": "^3.9.0",
+    "nuxt": "^3.11.1",
     "storybook": "8.0.0",
     "tailwindcss": "^3.4.0",
     "vue": "^3.4.5"
